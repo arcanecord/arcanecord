@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Vlad!</h1>
-<h3 align="center">Estudiante de desarrollo web de España</h3>
+<h3 align="center">Estudiante de desarrollo web</h3>
 
 - 🌱 Estoy estudiando **JS, Svelte, Java**
 
